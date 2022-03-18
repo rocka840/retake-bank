@@ -1,0 +1,1 @@
+bank.php?UserBalance="+$("#User");
